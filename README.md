@@ -31,6 +31,10 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 
 ## GNN Based models
 
+**SchNet: A continuous-filter convolutional neural network for modeling quantum interactions** \
+*Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller* \
+NIPS 2017. [[Paper](https://arxiv.org/pdf/1706.08566.pdf)][[Github](https://github.com/atomistic-machine-learning/SchNet)] 
+
 **(CGCNN) Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties** \
 *Tian Xie, Jeffrey C. Grossman* \
 Phys. Rev. Lett.  2018. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)][[Github](https://github.com/txie-93/cgcnn)] 
