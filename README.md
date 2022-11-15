@@ -1,8 +1,6 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/kdmsit/Awesome-Crystal-GNNs.git) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
+
 # Awesome-Crystal-GNNs
-This repository contains a collection of resources and papers on GNN Models on ***Crystal Solid State Materials***
+Recent times, Deep ML models (Specially GNNs) achieved great success towards learning representations of Crystal Materials. This repository contains a collection of resources and papers on Deep Learning Models on ***Crystal Solid State Materials***
 
 
 # Papers
@@ -13,22 +11,38 @@ This repository contains a collection of resources and papers on GNN Models on *
 *Kamal Choudhary, Brian DeCost, Chi Chen, Anubhav Jain, Francesca Tavazza, Ryan Cohn, Cheol Woo Park, Alok Choudhary, Ankit Agrawal, Simon J. L. Billinge, Elizabeth Holm, Shyue Ping Ong & Chris Wolverton * \
 npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)] 
 
-## Graph Representation Papers
-
-**Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties** \
-*Tian Xie and Jeffrey C. Grossman * \
-Phys. Rev. Lett.  2018. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)] 
+## Sequential Models
 
 **Elemnet: Deep learning the chemistry of materials from only elemental composition** \
 *Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao,Alok Choudhary,Ankit Agrawal. * \
-Scientific Reports  2018. [[Paper](https://www.nature.com/articles/s41598-018-35934-y)] 
+Scientific Reports  2018. [[Paper](https://www.nature.com/articles/s41598-018-35934-y)]
 
 **IRNet: A General Purpose Deep Residual Regression Framework for Materials Discovery** \
 *Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao, Alok Choudhary, Ankit Agrawal * \
 KDD 2019. [[Paper](https://arxiv.org/pdf/1907.03222.pdf)] 
 
+**Predicting materials properties without crystal structure: deep representation learning from stoichiometry** \
+*Rhys E. A. Goodall, Alpha A. Lee* \
+Nature communications  2020. [[Paper](https://www.nature.com/articles/s41467-020-19964-7)] 
+
 **Compositionally restricted attention-based network for materials property predictions** \
 *Anthony Yu-Tung Wang, Steven K. Kauwe, Ryan J. Murdock & Taylor D. Sparks * \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00545-1)] 
+
+## GNN Based models
+
+**(CGCNN) Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties** \
+*Tian Xie and Jeffrey C. Grossman * \
+Phys. Rev. Lett.  2018. [[Paper](https://www.nature.com/articles/s41524-022-00734-6) [Github](https://github.com/txie-93/cgcnn)] 
+
+**(MEGNet) Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals** \
+*Chi Chen, Weike Ye, Yunxing Zuo, Chen Zheng,Shyue Ping Ong * \
+Chemistry of Materials 2019. [[Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.9b01294),[Github](https://github.com/materialsvirtuallab/megnet)] 
+
+**Atomistic Line Graph Neural Network for improved materials property predictions** \
+*Kamal Choudhary, Brian DeCost  * \
+npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1), [Github](https://github.com/usnistgov/alignn)] 
+
+
 
 
