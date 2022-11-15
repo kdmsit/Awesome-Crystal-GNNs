@@ -8,6 +8,7 @@ Recent times, Deep ML models (Specially GNNs) achieved great success towards lea
   - [Sequential Models](#sequential-models)
   - [GNN Based models](#gnn-based-models)
   - [Equivariant Networks](#equivariant-networks)
+  - [Transformer](#transformer)
 
 
 # Papers
@@ -15,7 +16,7 @@ Recent times, Deep ML models (Specially GNNs) achieved great success towards lea
 ## Survey
 
 **Recent advances and applications of deep learning methods in materials science** \
-*Kamal Choudhary, Brian DeCost, Chi Chen, Anubhav Jain, Francesca Tavazza, Ryan Cohn, Cheol Woo Park, Alok Choudhary, Ankit Agrawal, Simon J. L. Billinge, Elizabeth Holm, Shyue Ping Ong & Chris Wolverton * \
+*Kamal Choudhary, Brian DeCost, Chi Chen, Anubhav Jain, Francesca Tavazza, Ryan Cohn, Cheol Woo Park, Alok Choudhary, Ankit Agrawal, Simon J. L. Billinge, Elizabeth Holm, Shyue Ping Ong & Chris Wolverton*\
 npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)] 
 
 ## Sequential Models
@@ -65,6 +66,12 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 **(ALIGNN) Atomistic Line Graph Neural Network for improved materials property predictions** \
 *Kamal Choudhary, Brian DeCost* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
+
+## Transformer
+
+**(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
+*Keqiang Yan, Yi Liu, Yuchao Lin, Shuiwang Ji* \
+npj Computational Materials  2021. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
 
 ## Equivariant Networks
 
