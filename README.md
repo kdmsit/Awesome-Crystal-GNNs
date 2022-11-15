@@ -19,11 +19,16 @@ npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s415
 *Tian Xie and Jeffrey C. Grossman * \
 Phys. Rev. Lett.  2018. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)] 
 
+**Elemnet: Deep learning the chemistry of materials from only elemental composition** \
+*Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao,Alok Choudhary,Ankit Agrawal. * \
+Scientific Reports  2018. [[Paper](https://www.nature.com/articles/s41598-018-35934-y)] 
+
+**IRNet: A General Purpose Deep Residual Regression Framework for Materials Discovery** \
+*Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao, Alok Choudhary, Ankit Agrawal * \
+KDD 2019. [[Paper](https://arxiv.org/pdf/1907.03222.pdf)] 
+
 **Compositionally restricted attention-based network for materials property predictions** \
 *Anthony Yu-Tung Wang, Steven K. Kauwe, Ryan J. Murdock & Taylor D. Sparks * \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00545-1)] 
 
-**Elemnet: Deep learning the chemistry of materials from only elemental composition** \
-*Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao,Alok Choudhary, and Ankit Agrawal. * \
-Scientific Reports  2018. [[Paper](https://www.nature.com/articles/s41524-021-00545-1)] 
 
