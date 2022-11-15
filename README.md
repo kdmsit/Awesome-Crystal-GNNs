@@ -32,14 +32,18 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 ## GNN Based models
 
 **(CGCNN) Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties** \
-*Tian Xie and Jeffrey C. Grossman * \
+*Tian Xie, Jeffrey C. Grossman * \
 Phys. Rev. Lett.  2018. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)][[Github](https://github.com/txie-93/cgcnn)] 
 
 **(MEGNet) Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals** \
 *Chi Chen, Weike Ye, Yunxing Zuo, Chen Zheng,Shyue Ping Ong * \
 Chemistry of Materials 2019. [[Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.9b01294)][[Github](https://github.com/materialsvirtuallab/megnet)] 
 
-**Atomistic Line Graph Neural Network for improved materials property predictions** \
+**(GATGNN) Graph convolutional neural networks with global attention for improved materials property prediction** \
+*Steph-Yves Louis, Yong Zhao, Alireza Nasiri, Xiran Wang, Yuqi Song, Fei Liu, and Jianjun Hu * \
+Physical Chemistry Chemical Physics  2020. [[Paper](https://pubs.rsc.org/en/content/articlepdf/2020/cp/d0cp01474e)][[Github](https://github.com/superlouis/GATGNN)] 
+
+**(ALIGNN) Atomistic Line Graph Neural Network for improved materials property predictions** \
 *Kamal Choudhary, Brian DeCost  * \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
 
