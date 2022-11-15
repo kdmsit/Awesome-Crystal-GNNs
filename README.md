@@ -83,6 +83,12 @@ Nature Communications 2022. [[Paper](https://www.nature.com/articles/s41467-022-
 *Sékou-Oumar Kaba, Siamak Ravanbakhsh* \
 NIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 
+## Materials Generation
+
+**Crystal Diffusion Variational Autoencoder for Periodic Material Generation** \
+*Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola* \
+ICLR 2021. [[Paper](https://arxiv.org/pdf/2110.06197.pdf)][[Github](https://github.com/txie-93/cdvae)] 
+
 
 
 
