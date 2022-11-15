@@ -72,7 +72,7 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
 *Keqiang Yan, Yi Liu, Yuchao Lin, Shuiwang Ji* \
-npj Computational Materials  2021. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
+NIPS 2022. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
 
 ## Equivariant Networks
 
