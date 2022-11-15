@@ -5,8 +5,8 @@ Recent times, Deep ML models (Specially GNNs) achieved great success towards lea
 ## Contents
 - [Papers](#papers)
   - [Survey](#survey)
-  - [Sequential Models](#Sequential Models)
-  - [GNN Based models](#GNN Based models)
+  - [Sequential Models](#Sequential_Models)
+  - [GNN Based models](#GNN_Based_Models)
 
 
 # Papers
@@ -17,7 +17,7 @@ Recent times, Deep ML models (Specially GNNs) achieved great success towards lea
 *Kamal Choudhary, Brian DeCost, Chi Chen, Anubhav Jain, Francesca Tavazza, Ryan Cohn, Cheol Woo Park, Alok Choudhary, Ankit Agrawal, Simon J. L. Billinge, Elizabeth Holm, Shyue Ping Ong & Chris Wolverton * \
 npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s41524-022-00734-6)] 
 
-## Sequential Models
+## Sequential_Models
 
 **Elemnet: Deep learning the chemistry of materials from only elemental composition** \
 *Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-keng Liao,Alok Choudhary,Ankit Agrawal* \
@@ -35,7 +35,7 @@ Nature communications  2020. [[Paper](https://www.nature.com/articles/s41467-020
 *Anthony Yu-Tung Wang, Steven K. Kauwe, Ryan J. Murdock & Taylor D. Sparks* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00545-1)] 
 
-## GNN Based models
+## GNN_Based_Models
 
 **SchNet: A continuous-filter convolutional neural network for modeling quantum interactions** \
 *Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller* \
