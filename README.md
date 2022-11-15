@@ -2,6 +2,12 @@
 # Awesome-Crystal-GNNs
 Recent times, Deep ML models (Specially GNNs) achieved great success towards learning representations of Crystal Materials. This repository contains a collection of resources and papers on Deep Learning Models on ***Crystal Solid State Materials***
 
+## Contents
+- [Papers](#papers)
+  - [Survey](#survey)
+  - [Sequential Models](#Sequential Models)
+  - [GNN Based models](#GNN Based models)
+
 
 # Papers
 
@@ -51,7 +57,7 @@ Physical Chemistry Chemical Physics  2020. [[Paper](https://pubs.rsc.org/en/cont
 *Jonathan Schmidt, Love Pettersson, Claudio Verdozzi, Silvana Botti,Miguel A. L. Marques* \
 Science Advances 2021. [[Paper](https://www.science.org/doi/epdf/10.1126/sciadv.abi7948)]
 
-**(CrysXPP) CrysXPP: An explainable property predictor for crystalline materials** \
+**CrysXPP: An explainable property predictor for crystalline materials** \
 *Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-022-00716-8)][[Github](https://github.com/kdmsit/crysxpp)] 
 
