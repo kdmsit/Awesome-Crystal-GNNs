@@ -59,6 +59,16 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 *Kamal Choudhary, Brian DeCost* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
 
+## Equivariant Networks
+
+**E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials** \
+*Simon Batzner, Albert Musaelian, Lixin Sun, Mario Geiger, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E. Smidt, Boris Kozinsky* \
+Nature Communications 2022. [[Paper](https://www.nature.com/articles/s41467-022-29939-5)]
+
+**Equivariant Networks for Crystal Structures** \
+*Sékou-Oumar Kaba, Siamak Ravanbakhsh* \
+NIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
+
 
 
 
