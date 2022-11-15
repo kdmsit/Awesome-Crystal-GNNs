@@ -9,6 +9,7 @@ Recent times, Deep ML models (Specially GNNs) achieved great success towards lea
   - [GNN Based models](#gnn-based-models)
   - [Equivariant Networks](#equivariant-networks)
   - [Transformer](#transformer)
+  - [Materials Generation](#materials-generation)
 
 
 # Papers
