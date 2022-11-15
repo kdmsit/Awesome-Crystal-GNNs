@@ -51,6 +51,10 @@ Physical Chemistry Chemical Physics  2020. [[Paper](https://pubs.rsc.org/en/cont
 *Jonathan Schmidt, Love Pettersson, Claudio Verdozzi, Silvana Botti,Miguel A. L. Marques* \
 Science Advances 2021. [[Paper](https://www.science.org/doi/epdf/10.1126/sciadv.abi7948)]
 
+**(CrysXPP) Atomistic Line Graph Neural Network for improved materials property predictions** \
+*Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
+npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-022-00716-8)][[Github](https://github.com/kdmsit/crysxpp)] 
+
 **(ALIGNN) Atomistic Line Graph Neural Network for improved materials property predictions** \
 *Kamal Choudhary, Brian DeCost* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
