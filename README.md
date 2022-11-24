@@ -68,6 +68,10 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 *Kamal Choudhary, Brian DeCost* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
 
+**CrysGNN : Distilling pre-trained knowledge to enhance property prediction for crystalline materials.** \
+*Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
+AAAI 2023 [[Paper](https://kdmsit.github.io/assets/pdf/CrysGNN_Full.pdf)][[Github](https://github.com/kdmsit/crysgnn)] 
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
