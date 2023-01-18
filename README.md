@@ -68,6 +68,10 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 *Kamal Choudhary, Brian DeCost* \
 npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s41524-021-00650-1)][[Github](https://github.com/usnistgov/alignn)] 
 
+**(ALIGNN-d) Efficient and interpretable graph network representation for angle-dependent properties applied to optical spectroscopy** \
+*Tim Hsu, Tuan Anh Pham, Nathan Keilbart, Stephen Weitzner, James Chapman, Penghao Xiao, S. Roger Qiu,Xiao Chen and Brandon C. Wood* \
+npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s41524-022-00841-4)][[Github](https://github.com/LLNL/graphite)] 
+
 **CrysGNN : Distilling pre-trained knowledge to enhance property prediction for crystalline materials.** \
 *Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
 AAAI 2023 [[Paper](https://kdmsit.github.io/assets/pdf/CrysGNN_Full.pdf)][[Github](https://github.com/kdmsit/crysgnn)] 
