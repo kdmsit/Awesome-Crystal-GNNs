@@ -74,7 +74,15 @@ npj Computational Materials  2022. [[Paper](https://www.nature.com/articles/s415
 
 **CrysGNN : Distilling pre-trained knowledge to enhance property prediction for crystalline materials.** \
 *Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
-AAAI 2023 [[Paper](https://kdmsit.github.io/assets/pdf/CrysGNN_Full.pdf)][[Github](https://github.com/kdmsit/crysgnn)] 
+AAAI 2023 [[Paper](https://arxiv.org/abs/2301.05852)][[Github](https://github.com/kdmsit/crysgnn)] 
+
+**Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction.** \
+*Yuchao Lin, Keqiang Yan, Youzhi Luo, Yi Liu, Xiaoning Qian, Shuiwang Ji* \
+ICML 2023 [[Paper](https://arxiv.org/pdf/2306.10045.pdf)][[Github](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet)] 
+
+**CrysMMNet: Multimodal Representation for Crystal Property Prediction.** \
+*Kishalay Das, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
+UAI 2023 [[Paper](https://openreview.net/pdf?id=06jLJiUAKX)][[Github](https://github.com/kdmsit/crysmmnet)] 
 
 ## Transformer
 
