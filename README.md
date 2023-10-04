@@ -84,11 +84,19 @@ ICML 2023 [[Paper](https://arxiv.org/pdf/2306.10045.pdf)][[Github](https://githu
 *Kishalay Das, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
 UAI 2023 [[Paper](https://openreview.net/pdf?id=06jLJiUAKX)][[Github](https://github.com/kdmsit/crysmmnet)] 
 
+**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials** \
+*Shengchao Liu, weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhi-Ming Ma, Omar Yaghi, Animashree Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, Jian Tang* \
+NIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://github.com/chao1224/Geom3D)] 
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
 *Keqiang Yan, Yi Liu, Yuchao Lin, Shuiwang Ji* \
 NIPS 2022. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
+
+**Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer** \
+*Namkyeong Lee, Heewoong Noh, Sungwon Kim, Dongmin Hyun, Gyoung S. Na, Chanyoung Park* \
+NIPS 2023. [[Paper]()][[Github]()] 
 
 ## Equivariant Networks
 
@@ -106,6 +114,14 @@ NIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 *Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola* \
 ICLR 2021. [[Paper](https://arxiv.org/pdf/2110.06197.pdf)][[Github](https://github.com/txie-93/cdvae)] 
 
+**Towards Symmetry-Aware Generation of Periodic Materials** \
+*Youzhi Luo, Chengkai Liu, Shuiwang Ji* \
+NIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02707.pdf)][[Github](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)] 
 
 
+## Benchmarks
+
+**M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery** \
+*Yuanqi Du, Yingheng Wang, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes* \
+NIPS 2023. [[Paper](https://arxiv.org/pdf/2307.05378.pdf)][[Github](https://github.com/yuanqidu/M2Hub)] 
 
