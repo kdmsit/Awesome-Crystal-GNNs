@@ -118,6 +118,14 @@ ICLR 2021. [[Paper](https://arxiv.org/pdf/2110.06197.pdf)][[Github](https://gith
 *Youzhi Luo, Chengkai Liu, Shuiwang Ji* \
 NIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02707.pdf)][[Github](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)] 
 
+**Crystal Structure Prediction  by Joint Equivariant Diffusion** \
+*Rui Jiao, Wenbing Huang, Peijia Lin, Jiaqi Han, Pin Chen, Yutong Lu, Yang Liu* \
+NIPS 2023. [[Paper](https://arxiv.org/pdf/2309.04475.pdf)][[Github](https://github.com/jiaor17/DiffCSP)] 
+
+**MatterGen: a generative model for inorganic materials design** \
+*Claudio Zeni, Robert Pinsler, Daniel Zügner, Andrew Fowler, Matthew Horton, Xiang Fu, Sasha Shysheya, Jonathan Crabbé, Lixin Sun, Jake Smith, Ryota Tomioka, Tian Xie* \
+Arxiv. [[Paper](https://arxiv.org/abs/2312.03687)][[Github]()] 
+
 
 ## Benchmarks
 
