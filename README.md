@@ -98,6 +98,14 @@ NIPS 2022. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://gith
 *Namkyeong Lee, Heewoong Noh, Sungwon Kim, Dongmin Hyun, Gyoung S. Na, Chanyoung Park* \
 NIPS 2023. [[Paper]()][[Github]()] 
 
+**Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding** \
+*Tatsunori Taniai, Ryo Igarashi, Yuta Suzuki, Naoya Chiba, Kotaro Saito, Yoshitaka Ushiku, Kanta Ono* \
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=fxQiecl9HB)][[Github]()] 
+
+**Complete and Efficient Graph Transformers for Crystal Material Property Prediction** \
+*Keqiang Yan, Cong Fu, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji* \
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=BnQY9XiRAS)][[Github]()] 
+
 ## Equivariant Networks
 
 **E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials** \
@@ -125,6 +133,18 @@ NIPS 2023. [[Paper](https://arxiv.org/pdf/2309.04475.pdf)][[Github](https://gith
 **MatterGen: a generative model for inorganic materials design** \
 *Claudio Zeni, Robert Pinsler, Daniel Zügner, Andrew Fowler, Matthew Horton, Xiang Fu, Sasha Shysheya, Jonathan Crabbé, Lixin Sun, Jake Smith, Ryota Tomioka, Tian Xie* \
 Arxiv. [[Paper](https://arxiv.org/abs/2312.03687)][[Github]()] 
+
+**Scalable Diffusion for Materials Generation** \
+*Sherry Yang, KwangHwan Cho, Amil Merchant, Pieter Abbeel, Dale Schuurmans, Igor Mordatch, Ekin Dogus Cubuk* \
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=wm4WlHoXpC)][[Github]()] 
+
+**Fine-Tuned Language Models Generate Stable Inorganic Materials as Text** \
+*Nate Gruver, Anuroop Sriram, Andrea Madotto, Andrew Gordon Wilson, C. Lawrence Zitnick, Zachary Ward Ulissi* \
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=vN9fpfqoP1)][[Github](https://github.com/facebookresearch/crystal-llm?tab=readme-ov-file)] 
+
+**Space Group Constrained Crystal Generation** \
+*Rui Jiao, Wenbing Huang, Yu Liu, Deli Zhao, Yang Liu* \
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()] 
 
 
 ## Benchmarks
