@@ -42,7 +42,7 @@ npj Computational Materials  2021. [[Paper](https://www.nature.com/articles/s415
 
 **SchNet: A continuous-filter convolutional neural network for modeling quantum interactions** \
 *Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller* \
-NIPS 2017. [[Paper](https://arxiv.org/pdf/1706.08566.pdf)][[Github](https://github.com/atomistic-machine-learning/SchNet)] 
+NeurIPS 2017. [[Paper](https://arxiv.org/pdf/1706.08566.pdf)][[Github](https://github.com/atomistic-machine-learning/SchNet)] 
 
 **(CGCNN) Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties** \
 *Tian Xie, Jeffrey C. Grossman* \
@@ -86,17 +86,17 @@ UAI 2023 [[Paper](https://openreview.net/pdf?id=06jLJiUAKX)][[Github](https://gi
 
 **Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials** \
 *Shengchao Liu, weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhi-Ming Ma, Omar Yaghi, Animashree Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, Jian Tang* \
-NIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://github.com/chao1224/Geom3D)] 
+NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://github.com/chao1224/Geom3D)] 
 
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
 *Keqiang Yan, Yi Liu, Yuchao Lin, Shuiwang Ji* \
-NIPS 2022. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
+NeurIPS 2022. [[Paper](https://arxiv.org/pdf/2209.11807.pdf)][[Github](https://github.com/YKQ98/Matformer)] 
 
 **Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer** \
 *Namkyeong Lee, Heewoong Noh, Sungwon Kim, Dongmin Hyun, Gyoung S. Na, Chanyoung Park* \
-NIPS 2023. [[Paper]()][[Github]()] 
+NeurIPS 2023. [[Paper]()][[Github]()] 
 
 **Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding** \
 *Tatsunori Taniai, Ryo Igarashi, Yuta Suzuki, Naoya Chiba, Kotaro Saito, Yoshitaka Ushiku, Kanta Ono* \
@@ -114,7 +114,7 @@ Nature Communications 2022. [[Paper](https://www.nature.com/articles/s41467-022-
 
 **Equivariant Networks for Crystal Structures** \
 *Sékou-Oumar Kaba, Siamak Ravanbakhsh* \
-NIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
+NeurIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 
 ## Materials Generation
 
@@ -124,11 +124,11 @@ ICLR 2021. [[Paper](https://arxiv.org/pdf/2110.06197.pdf)][[Github](https://gith
 
 **Towards Symmetry-Aware Generation of Periodic Materials** \
 *Youzhi Luo, Chengkai Liu, Shuiwang Ji* \
-NIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02707.pdf)][[Github](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)] 
+NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02707.pdf)][[Github](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)] 
 
 **Crystal Structure Prediction  by Joint Equivariant Diffusion** \
 *Rui Jiao, Wenbing Huang, Peijia Lin, Jiaqi Han, Pin Chen, Yutong Lu, Yang Liu* \
-NIPS 2023. [[Paper](https://arxiv.org/pdf/2309.04475.pdf)][[Github](https://github.com/jiaor17/DiffCSP)] 
+NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2309.04475.pdf)][[Github](https://github.com/jiaor17/DiffCSP)] 
 
 **MatterGen: a generative model for inorganic materials design** \
 *Claudio Zeni, Robert Pinsler, Daniel Zügner, Andrew Fowler, Matthew Horton, Xiang Fu, Sasha Shysheya, Jonathan Crabbé, Lixin Sun, Jake Smith, Ryota Tomioka, Tian Xie* \
@@ -151,5 +151,5 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()]
 
 **M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery** \
 *Yuanqi Du, Yingheng Wang, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes* \
-NIPS 2023. [[Paper](https://arxiv.org/pdf/2307.05378.pdf)][[Github](https://github.com/yuanqidu/M2Hub)] 
+NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.05378.pdf)][[Github](https://github.com/yuanqidu/M2Hub)] 
 
