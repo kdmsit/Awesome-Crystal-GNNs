@@ -89,7 +89,7 @@ UAI 2023 [[Paper](https://openreview.net/pdf?id=06jLJiUAKX)][[Github](https://gi
 NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://github.com/chao1224/Geom3D)] 
 
 **A Diffusion-Based Pre-training Framework for Crystal Property Prediction** \
-* Zixing Song; Ziqiao Meng; Irwin King* \
+*Zixing Song; Ziqiao Meng; Irwin King* \
 AAAI 2024. [[Paper]()][[Github]()] 
 
 ## Transformer
