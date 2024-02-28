@@ -88,6 +88,10 @@ UAI 2023 [[Paper](https://openreview.net/pdf?id=06jLJiUAKX)][[Github](https://gi
 *Shengchao Liu, weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhi-Ming Ma, Omar Yaghi, Animashree Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, Jian Tang* \
 NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://github.com/chao1224/Geom3D)] 
 
+** A Diffusion-Based Pre-training Framework for Crystal Property Prediction** \
+* Zixing Song; Ziqiao Meng; Irwin King* \
+AAAI 2024. [[Paper]()][[Github]()] 
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
@@ -105,6 +109,10 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=fxQiecl9HB)][[Github]()]
 **Complete and Efficient Graph Transformers for Crystal Material Property Prediction** \
 *Keqiang Yan, Cong Fu, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji* \
 ICLR 2024. [[Paper](https://openreview.net/pdf?id=BnQY9XiRAS)][[Github]()] 
+
+** Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance** \
+* Yingheng Wang; Shufeng Kong; John M. Gregoire; Carla P. Gomes* \
+AAAI 2024. [[Paper]()][[Github]()] 
 
 ## Equivariant Networks
 
