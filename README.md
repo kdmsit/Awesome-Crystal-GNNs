@@ -90,7 +90,7 @@ NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://g
 
 **A Diffusion-Based Pre-training Framework for Crystal Property Prediction** \
 *Zixing Song; Ziqiao Meng; Irwin King* \
-AAAI 2024. [[Paper]()][[Github]()] 
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440)][[Github]()] 
 
 ## Transformer
 
@@ -112,7 +112,7 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=BnQY9XiRAS)][[Github]()]
 
 **Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance** \
 *Yingheng Wang; Shufeng Kong; John M. Gregoire; Carla P. Gomes* \
-AAAI 2024. [[Paper]()][[Github]()] 
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27781/27598)][[Github]()] 
 
 ## Equivariant Networks
 
