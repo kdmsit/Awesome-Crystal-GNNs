@@ -90,7 +90,7 @@ NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://g
 
 **A Diffusion-Based Pre-training Framework for Crystal Property Prediction** \
 *Zixing Song; Ziqiao Meng; Irwin King* \
-AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440)][[Github]()] 
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440)][[Github]()]
 
 ## Transformer
 
@@ -124,6 +124,10 @@ Nature Communications 2022. [[Paper](https://www.nature.com/articles/s41467-022-
 *Sékou-Oumar Kaba, Siamak Ravanbakhsh* \
 NeurIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 
+**A Symmetry Informed Equivariant Network for Crystal Tensor Prediction** \
+*Keqiang Yan · Alexandra Saxton · Xiaofeng Qian · Xiaoning Qian · Shuiwang Ji* \
+ICML 2024. [[Paper]()][[Github]()] 
+
 ## Materials Generation
 
 **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** \
@@ -153,6 +157,10 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=vN9fpfqoP1)][[Github](https://
 **Space Group Constrained Crystal Generation** \
 *Rui Jiao, Wenbing Huang, Yu Liu, Deli Zhao, Yang Liu* \
 ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()] 
+
+**Equivariant Diffusion for Crystal Structure Prediction** \
+*Peijia Lin · Pin Chen · Rui Jiao · Qing Mo · Jianhuan Cen · Wenbing Huang · Yang Liu · Dan Huang · Yutong Lu* \
+ICML 2024. [[Paper](][[Github]()] 
 
 
 ## Benchmarks
