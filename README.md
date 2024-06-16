@@ -124,9 +124,9 @@ Nature Communications 2022. [[Paper](https://www.nature.com/articles/s41467-022-
 *Sékou-Oumar Kaba, Siamak Ravanbakhsh* \
 NeurIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 
-**A Symmetry Informed Equivariant Network for Crystal Tensor Prediction** \
+**A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction** \
 *Keqiang Yan · Alexandra Saxton · Xiaofeng Qian · Xiaoning Qian · Shuiwang Ji* \
-ICML 2024. [[Paper]()][[Github]()] 
+ICML 2024. [[Paper](https://openreview.net/pdf?id=BOFjRnJ9mX)][[Github]()]
 
 ## Materials Generation
 
@@ -160,7 +160,11 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()]
 
 **Equivariant Diffusion for Crystal Structure Prediction** \
 *Peijia Lin · Pin Chen · Rui Jiao · Qing Mo · Jianhuan Cen · Wenbing Huang · Yang Liu · Dan Huang · Yutong Lu* \
-ICML 2024. [[Paper](][[Github]()] 
+ICML 2024. [[Paper]()][[Github]()]
+
+**FlowMM: Generating Materials with Riemannian Flow Matching** \
+*Benjamin Kurt Miller, Ricky T. Q. Chen, Anuroop Sriram, Brandon M Wood* \
+ICML 2024. [[Paper](https://arxiv.org/pdf/2406.04713)][[Github]()] 
 
 
 ## Benchmarks
