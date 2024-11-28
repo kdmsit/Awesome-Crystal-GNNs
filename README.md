@@ -92,6 +92,10 @@ NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2306.09375.pdf)][[Github](https://g
 *Zixing Song; Ziqiao Meng; Irwin King* \
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440)][[Github]()]
 
+**CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction** \
+*Shrimon Mukherjee, Madhusudan Ghosh, Partha Basuchowdhuri* \
+LOG 2024. [[Paper](https://openreview.net/pdf?id=2AIVM5pWXz)][[Github](https://github.com/shrimonmuke0202/CrysAtom)]
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
