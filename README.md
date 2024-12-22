@@ -172,7 +172,7 @@ ICML 2024. [[Paper](https://arxiv.org/pdf/2406.04713)][[Github]()]
 
 **Invariant Tokenization for Language Model Enabled Crystal Materials Generation** \
 *Keqiang Yan · Xiner Li · Hongyi Ling · Kenna Ashen · Carl Edwards · Raymundo Arroyave · Marinka Zitnik · Heng Ji · Xiaofeng Qian · Xiaoning Qian · Shuiwang Ji* \
-NeurIPS 2024. [[Paper]()][[Github]()] 
+NeurIPS 2024. [[Paper](https://openreview.net/pdf?id=18FGRNd0wZ)][[Github]()] 
 
 **Generative Hierarchical Materials Search** \
 *Sherry Yang · Simon Batzner · Ruiqi Gao · Muratahan Aykol · Alexander Gaunt · Brendan C McMorrow · Danilo Jimenez Rezende · Dale Schuurmans · Igor Mordatch · Ekin Dogus Cubuk* \
@@ -180,7 +180,7 @@ NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2409.06762)][[Github]()]
 
 **FlowLLM: Flow Matching for Material Generation with Learned Base Distributions** \
 *Anuroop Sriram · Benjamin K Miller* \
-NeurIPS 2024. [[Paper]()][[Github]()]
+NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
 
 
 ## Benchmarks
