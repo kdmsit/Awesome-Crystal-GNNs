@@ -182,10 +182,19 @@ NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2409.06762)][[Github]()]
 *Anuroop Sriram · Benjamin K Miller* \
 NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
 
-
 ## Benchmarks
 
 **M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery** \
 *Yuanqi Du, Yingheng Wang, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes* \
-NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.05378.pdf)][[Github](https://github.com/yuanqidu/M2Hub)] 
+NeurIPS 2023. [[Paper](https://openreview.net/pdf?id=GB5a0RRYuv)][[Github](https://github.com/yuanqidu/M2Hub)] 
+
+## Miscellaneous
+
+**Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via  Large Language Model** \
+*Yanpeng Ye, Jie Ren, Shaozhou Wang, Yuwei Wan, Imran Razzak, Bram Hoex, Haofen Wang, Tong Xie, Wenjie Zhang* \
+NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
+
+**Learning Superconductivity from Ordered and Disordered Material Structures** \
+*Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, Zhen WANG, Wenbing Huang, Yang Liu, Yutong Lu* \
+NeurIPS 2024. [[Paper](https://openreview.net/pdf?id=iNYrB3ip9F)][[Github]()]
 
