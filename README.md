@@ -192,7 +192,7 @@ NeurIPS 2023. [[Paper](https://openreview.net/pdf?id=GB5a0RRYuv)][[Github](https
 
 **Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via  Large Language Model** \
 *Yanpeng Ye, Jie Ren, Shaozhou Wang, Yuwei Wan, Imran Razzak, Bram Hoex, Haofen Wang, Tong Xie, Wenjie Zhang* \
-NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
+NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2404.03080)][[Github]()]
 
 **Learning Superconductivity from Ordered and Disordered Material Structures** \
 *Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, Zhen WANG, Wenbing Huang, Yang Liu, Yutong Lu* \
