@@ -164,7 +164,7 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()]
 
 **Equivariant Diffusion for Crystal Structure Prediction** \
 *Peijia Lin · Pin Chen · Rui Jiao · Qing Mo · Jianhuan Cen · Wenbing Huang · Yang Liu · Dan Huang · Yutong Lu* \
-ICML 2024. [[Paper]()][[Github]()]
+ICML 2024. [[Paper](https://proceedings.mlr.press/v235/lin24b.html)][[Github](https://github.com/EmperorJia/EquiCSP?tab=readme-ov-file)]
 
 **FlowMM: Generating Materials with Riemannian Flow Matching** \
 *Benjamin Kurt Miller, Ricky T. Q. Chen, Anuroop Sriram, Brandon M Wood* \
