@@ -96,6 +96,11 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440
 *Shrimon Mukherjee, Madhusudan Ghosh, Partha Basuchowdhuri* \
 LOG 2024. [[Paper](https://openreview.net/pdf?id=2AIVM5pWXz)][[Github](https://github.com/shrimonmuke0202/CrysAtom)]
 
+**A Cartesian encoding graph neural network for crystal structure property prediction: application to thermal ellipsoid estimation** \
+*Àlex Solé, Albert Mosella-Montoro, Joan Cardona, Silvia Gómez-Coca, Daniel Aravena, Eliseo Ruiz, Javier Ruiz-Hidalgo*
+Digital Discovery 2025 [[Paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00352g)]
+
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
