@@ -132,6 +132,10 @@ NeurIPS 2022. [[Paper](https://openreview.net/pdf?id=0Dh8dz4snu)]
 *Keqiang Yan · Alexandra Saxton · Xiaofeng Qian · Xiaoning Qian · Shuiwang Ji* \
 ICML 2024. [[Paper](https://openreview.net/pdf?id=BOFjRnJ9mX)][[Github]()]
 
+**Rethinking the role of frames for SE(3)-invariant crystal structure modeling** \
+*Yusei Ito, Tatsunori Taniai, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=gzxDjnvBDa)][[Github](https://omron-sinicx.github.io/crystalframer/)]
+
 ## Materials Generation
 
 **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** \
@@ -160,15 +164,15 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=vN9fpfqoP1)][[Github](https://
 
 **Space Group Constrained Crystal Generation** \
 *Rui Jiao, Wenbing Huang, Yu Liu, Deli Zhao, Yang Liu* \
-ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github]()] 
+ICLR 2024. [[Paper](https://openreview.net/pdf?id=jkvZ7v4OmP)][[Github](https://github.com/jiaor17/DiffCSP-PP)] 
 
 **Equivariant Diffusion for Crystal Structure Prediction** \
 *Peijia Lin · Pin Chen · Rui Jiao · Qing Mo · Jianhuan Cen · Wenbing Huang · Yang Liu · Dan Huang · Yutong Lu* \
-ICML 2024. [[Paper]()][[Github]()]
+ICML 2024. [[Paper](https://openreview.net/pdf?id=VRv8KjJNuj)][[Github](https://github.com/EmperorJia/EquiCSP)]
 
 **FlowMM: Generating Materials with Riemannian Flow Matching** \
 *Benjamin Kurt Miller, Ricky T. Q. Chen, Anuroop Sriram, Brandon M Wood* \
-ICML 2024. [[Paper](https://arxiv.org/pdf/2406.04713)][[Github]()] 
+ICML 2024. [[Paper](https://arxiv.org/pdf/2406.04713)][[Github](https://github.com/facebookresearch/flowmm)] 
 
 **Invariant Tokenization for Language Model Enabled Crystal Materials Generation** \
 *Keqiang Yan · Xiner Li · Hongyi Ling · Kenna Ashen · Carl Edwards · Raymundo Arroyave · Marinka Zitnik · Heng Ji · Xiaofeng Qian · Xiaoning Qian · Shuiwang Ji* \
@@ -180,7 +184,27 @@ NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2409.06762)][[Github]()]
 
 **FlowLLM: Flow Matching for Material Generation with Learned Base Distributions** \
 *Anuroop Sriram · Benjamin K Miller* \
-NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
+NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github](https://github.com/facebookresearch/flowmm)]
+
+**A Periodic Bayesian Flow for Material Generation** \
+*Hanlin Wu, Yuxuan Song, Jingjing Gong, Ziyao Cao, Yawen Ouyang, Jianbing Zhang, Hao Zhou, Wei-Ying Ma, Jingjing Liu* \
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2502.02016)][[Github](https://github.com/wu-han-lin/CrysBFN)]
+
+**SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models** \
+*Daniel Levy, Siba Smarak Panigrahi, Sékou-Oumar Kaba, Qiang Zhu, Kin Long Kelvin Lee, Mikhail Galkin, Santiago Miret, Siamak Ravanbakhsh* \
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2502.03638)][[Github](https://github.com/sibasmarak/SymmCD)]
+
+**Periodic Materials Generation using Text-Guided Joint Diffusion Model** \
+*Kishalay Das, Subhojyoti Khastagir, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=AkBrb7yQ0G)][[Github]()]
+
+**MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks** \
+*Nayoung Kim, Seongsu Kim, Minsu Kim, Jinkyoo Park, Sungsoo Ahn* \
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.17270)][[Github]()]
+
+**MatExpert: Decomposing Materials Discovery By Mimicking Human Experts** \
+*Qianggang Ding, Santiago Miret, Bang Liu* \
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.21317)][[Github]()]
 
 ## Benchmarks
 
@@ -188,7 +212,15 @@ NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2410.23405)][[Github]()]
 *Yuanqi Du, Yingheng Wang, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes* \
 NeurIPS 2023. [[Paper](https://openreview.net/pdf?id=GB5a0RRYuv)][[Github](https://github.com/yuanqidu/M2Hub)] 
 
-## Miscellaneous
+**ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials** \
+*Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, Zhen WANG, Wenbing Huang, Yang Liu, Yutong Lu* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=SBCMNc3Mq3)][[Github]()]
+
+**SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark** \
+*Bin CAO, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=SBCMNc3Mq3)][[Github](http://github.com/Bin-Cao/SimXRD)]
+
+## Miscellaneous/Applications
 
 **Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via  Large Language Model** \
 *Yanpeng Ye, Jie Ren, Shaozhou Wang, Yuwei Wan, Imran Razzak, Bram Hoex, Haofen Wang, Tong Xie, Wenjie Zhang* \
@@ -197,4 +229,8 @@ NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2404.03080)][[Github]()]
 **Learning Superconductivity from Ordered and Disordered Material Structures** \
 *Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, Zhen WANG, Wenbing Huang, Yang Liu, Yutong Lu* \
 NeurIPS 2024. [[Paper](https://openreview.net/pdf?id=iNYrB3ip9F)][[Github]()]
+
+**OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents** \
+*Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, Zhen WANG, Wenbing Huang, Yang Liu, Yutong Lu* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=9YNyiCJE3k)][[Github]()]
 
