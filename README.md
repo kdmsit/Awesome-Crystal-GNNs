@@ -196,15 +196,27 @@ ICLR 2025. [[Paper](https://arxiv.org/pdf/2502.03638)][[Github](https://github.c
 
 **Periodic Materials Generation using Text-Guided Joint Diffusion Model** \
 *Kishalay Das, Subhojyoti Khastagir, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly* \
-ICLR 2025. [[Paper](https://openreview.net/pdf?id=AkBrb7yQ0G)][[Github]()]
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=AkBrb7yQ0G)][[Github](https://github.com/kdmsit/TGDMat)]
 
 **MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks** \
 *Nayoung Kim, Seongsu Kim, Minsu Kim, Jinkyoo Park, Sungsoo Ahn* \
-ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.17270)][[Github]()]
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.17270)][[Github](https://github.com/nayoung10/MOFFlow)]
 
 **MatExpert: Decomposing Materials Discovery By Mimicking Human Experts** \
 *Qianggang Ding, Santiago Miret, Bang Liu* \
-ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.21317)][[Github]()]
+ICLR 2025. [[Paper](https://arxiv.org/pdf/2410.21317)][[Github](https://github.com/BangLab-UdeM-Mila/MatExpert)]
+
+**WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry** \
+*Filip Ekström Kelvinius, Oskar Andersson, Abhijith Parackal, Dong Qian, Rickard Armiento, Fredrik Lindsten* \
+ICML 2025. [[Paper](https://arxiv.org/pdf/2502.06485)][[Github](https://github.com/httk/wyckoffdiff)]
+
+**Kinetic Langevin Diffusion for Crystalline Materials Generation** \
+*François Cornet, Federico Bergamin, Arghya Bhowmik, Juan Garcia-Lastra, Jes Frellsen, Mikkel Schmidt* \
+ICML 2025. [[Paper](https://openreview.net/pdf?id=Mttf1RoKKM)][[Github]()]
+
+**Kinetic Langevin Diffusion for Crystalline Materials Generation** \
+*Nikita Kazeev, Wei Nong, Ignat Romanov, Ruiming Zhu, Andrey Ustyuzhanin, Shuya Yamazaki, Kedar Hippalgaonkar* \
+ICML 2025. [[Paper](https://arxiv.org/pdf/2503.02407)][[Github](https://github.com/SymmetryAdvantage/WyckoffTransformer)]
 
 ## Benchmarks
 
