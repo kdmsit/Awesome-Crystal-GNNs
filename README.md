@@ -118,6 +118,10 @@ ICLR 2024. [[Paper](https://openreview.net/pdf?id=BnQY9XiRAS)][[Github]()]
 *Yingheng Wang; Shufeng Kong; John M. Gregoire; Carla P. Gomes* \
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27781/27598)][[Github]()] 
 
+**Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling** \
+*haowei hua, Wanyu Lin* \
+NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2505.15315)][[Github]()]
+
 ## Equivariant Networks
 
 **E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials** \
@@ -214,9 +218,25 @@ ICML 2025. [[Paper](https://arxiv.org/pdf/2502.06485)][[Github](https://github.c
 *François Cornet, Federico Bergamin, Arghya Bhowmik, Juan Garcia-Lastra, Jes Frellsen, Mikkel Schmidt* \
 ICML 2025. [[Paper](https://openreview.net/pdf?id=Mttf1RoKKM)][[Github]()]
 
-**Kinetic Langevin Diffusion for Crystalline Materials Generation** \
+**Wyckoff Transformer: Generation of Symmetric Crystals** \
 *Nikita Kazeev, Wei Nong, Ignat Romanov, Ruiming Zhu, Andrey Ustyuzhanin, Shuya Yamazaki, Kedar Hippalgaonkar* \
 ICML 2025. [[Paper](https://arxiv.org/pdf/2503.02407)][[Github](https://github.com/SymmetryAdvantage/WyckoffTransformer)]
+
+**Space Group Equivariant Crystal Diffusion** \
+*Rees Chang, Angela Pak, Alex Guerra, Ni Zhan, Nick Richardson, Elif Ertekin, Ryan Adams* \
+NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2505.10994)][[Github](https://github.com/rees-c/sgequidiff)]
+
+**LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation** \
+*Subhojyoti Khastagir, Kishalay Das, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee and Niloy Ganguly* \
+NeurIPS 2025. [[Paper]()][[Github](https://github.com/kdmsit/crysllmgen)]
+
+## Crystal Structure Optimization
+
+**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures** \
+*Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, Matthew Rosseinsky
+* \
+NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2506.04195)][[Github](https://github.com/rees-c/sgequidiff)]
+
 
 ## Benchmarks
 
