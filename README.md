@@ -233,8 +233,7 @@ NeurIPS 2025. [[Paper]()][[Github](https://github.com/kdmsit/crysllmgen)]
 ## Crystal Structure Optimization
 
 **MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures** \
-*Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, Matthew Rosseinsky
-* \
+*Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, Matthew Rosseinsky* \
 NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2506.04195)][[Github](https://github.com/rees-c/sgequidiff)]
 
 
