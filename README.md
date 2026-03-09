@@ -96,6 +96,18 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28748/29440
 *Shrimon Mukherjee, Madhusudan Ghosh, Partha Basuchowdhuri* \
 LOG 2024. [[Paper](https://openreview.net/pdf?id=2AIVM5pWXz)][[Github](https://github.com/shrimonmuke0202/CrysAtom)]
 
+**Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction** \
+*Bin Cao · Yang Liu · Longhan Zhang · Yifan Wu · Zhixun Li · Yuyu Luo · Hong Cheng · Yang Ren · Tongyi ZHANG* \
+ICLR 2026. [[Paper](https://arxiv.org/pdf/2509.21778)][[Github](https://github.com/Bin-Cao/PRDNet)]
+
+**From atom to space: A region-based readout function for spatial properties of materials** \
+*Jiawen Zou · Weimin Tan · Zhongyao Wang · Hao Qi · Bo Yan* \
+ICLR 2026. [[Paper](https://openreview.net/pdf?id=v2oYZJ7Exo)][[Github](https://github.com/nankusa/SpatialRead)]
+
+**MoMa: A Simple Modular Learning Framework for Material Property Prediction** \
+*Botian Wang · Yawen Ouyang · Yaohui Li · Mianzhi Pan · yuanhang tang · Haorui Cui · Yiqun Wang · Jianbing Zhang · Xiaonan Wang · Wei-Ying Ma · Hao Zhou* \
+ICLR 2026. [[Paper](https://openreview.net/pdf?id=jiSt3M25TP)][[Github](https://github.com/GenSI-THUAIR/MoMa)]
+
 ## Transformer
 
 **(Matformer) Periodic Graph Transformers for Crystal Material Property Prediction** \
@@ -228,13 +240,34 @@ NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2505.10994)][[Github](https://githu
 
 **LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation** \
 *Subhojyoti Khastagir, Kishalay Das, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee and Niloy Ganguly* \
-NeurIPS 2025. [[Paper]()][[Github](https://github.com/kdmsit/crysllmgen)]
+NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2510.23040)][[Github](https://github.com/kdmsit/crysllmgen)]
+
+**OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction** \
+*Emily Jin · Andrei Nica · Kin Long Kelvin Lee · Joey Bose · Mikhail Galkin · Santiago Miret · Jarrid Rector-Brooks · Alexander Tong · Michael Bronstein · Frances Arnold · Chenghao Liu* \
+ICLR 2026. [[Paper](https://arxiv.org/pdf/2512.06987)][[Github](https://oxtal.github.io/)]
+
+**Accelerating Materials Design via LLM-Guided Evolutionary Search** \
+*Nikhil Abhyankar · sanchit kabra · Saaketh Desai · Chandan Reddy* \
+ICLR 2026. [[Paper](https://arxiv.org/pdf/2510.22503v1)][[Github](https://github.com/scientific-discovery/LLEMA)]
+
+**Riemannian Variational Flow Matching for Material and Protein Design** \
+*Olga Zaghen · Floor Eijkelboom · Alison Pouplin · Cong Liu · Max Welling · Jan-Willem van de Meent · Erik Bekkers* \
+ICLR 2026. [[Paper](https://arxiv.org/pdf/2502.12981)][[Github](https://github.com/scientific-discovery/LLEMA)]
+
+
 
 ## Crystal Structure Optimization
 
 **MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures** \
 *Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, Matthew Rosseinsky* \
 NeurIPS 2025. [[Paper](https://arxiv.org/pdf/2506.04195)][[Github](https://github.com/rees-c/sgequidiff)]
+
+
+## Materials Foundation Model
+
+**Sparsity-promoting Fine-tuning for Equivariant Materials Foundation Model** \
+*Youngwoo Cho · Seunghoon Yi · Wooil Yang · Sungmo Kang · Young-Woo Son · Jaegul Choo · Joonseok Lee · Soo Kyung Kim · Hongkee Yoon* \
+ICLR 2026. [[Paper](https://openreview.net/pdf?id=moBqB1CUym)][[Github]()]
 
 
 ## Benchmarks
